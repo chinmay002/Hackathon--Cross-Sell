@@ -4,5 +4,5 @@ Cross-selling identifies products or services that satisfy additional, complemen
 Cross-selling is prevalent in various domains and industries including banks. For example, credit cards are cross-sold to people registering a savings account. In ecommerce, cross-selling is often utilized on product pages, during the checkout process, and in lifecycle campaigns. It is a highly-effective tactic for generating repeat purchases, demonstrating the breadth of a catalog to customers. Cross-selling can alert users to products they didn't previously know you offered, further earning their confidence as the best retailer to satisfy a particular need.
 
 # Approach
- cross validation with 5 folds for both Catboost and LGBM                                                                
- Blending : Mean of Catboost and LGBM
+1>cross validation with 5 folds for both Catboost and LGBM                                                                
+2>Blending : Mean of Catboost and LGBM
